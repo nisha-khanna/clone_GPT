@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/clone_GPT/static/css/main.4259cfc9.css",
+    "main.js": "/clone_GPT/static/js/main.36170e9d.js",
+    "static/media/gptlogo.webp": "/clone_GPT/static/media/gptlogo.34a0a9650db64b3135a2.webp",
+    "static/media/user.webp": "/clone_GPT/static/media/user.544bcc84075369b5a764.webp",
+    "static/media/msg.png": "/clone_GPT/static/media/msg.a482b721a90048a93c0b.png",
+    "static/media/upgrade.png": "/clone_GPT/static/media/upgrade.a3810371a435da940aa4.png",
+    "index.html": "/clone_GPT/index.html",
+    "static/media/send.svg": "/clone_GPT/static/media/send.5cc05986cf306ae5d4ce38bf6fdc3def.svg",
+    "main.4259cfc9.css.map": "/clone_GPT/static/css/main.4259cfc9.css.map",
+    "main.36170e9d.js.map": "/clone_GPT/static/js/main.36170e9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4259cfc9.css",
+    "static/js/main.36170e9d.js"
+  ]
+}
